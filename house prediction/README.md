@@ -2,5 +2,6 @@
 ### In this project we can predict that weather the person is financialy able to buy the new house or not.
 
 # How to Run
-### open the terminal
-### streamlit run house_log_app.py
+### Step1: Import all the file in Your System(Install all Necessary Liabraries)
+### Step2: open the terminal
+### Step3: streamlit run house_log_app.py
