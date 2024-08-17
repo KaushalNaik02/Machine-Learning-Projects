@@ -1,4 +1,6 @@
-# This is the house buying predictor project
+# Logistic-Regression Model
+
+## This Is The House Buying Predictor Project
 
 ### In this project we can predict that weather the person is financialy able to buy the new house or not.
 
@@ -7,7 +9,7 @@
 
 2. house_log_app.py
 - we have created model in the *house_log_reg.py* and loaded into the  *house_log_app.py*  using the **Pickle**
-- *house_log_app.py* contains the code to deisign WEB using **stremlit**
+- *house_log_app.py* contains the code to deisign WEB using **streamlit**
 
 # How to Run
 

@@ -1,4 +1,8 @@
-# This Is The Project To Determine The Species Of The Iris Flower
+# Decision-Tree Model #
+
+## This Is The Project To Determine The Species Of The Iris Flower
+
+**Decision-Tree Model**
 
 ### we have trained the model using sepal length,sepal width,petal lengh,petal width
 
